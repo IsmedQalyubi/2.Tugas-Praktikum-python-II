@@ -8,7 +8,7 @@
 4.
 ![image](https://github.com/IsmedQalyubi/2.Tugas-Praktikum-python-II/blob/main/14.PNG) 
 5.
-![image](
+![image](https://github.com/IsmedQalyubi/2.Tugas-Praktikum-python-II/blob/main/15a.PNG) 
 ![image](
 ![image](
 6.
