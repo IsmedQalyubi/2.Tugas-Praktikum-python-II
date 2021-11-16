@@ -9,9 +9,11 @@
 ![image](https://github.com/IsmedQalyubi/2.Tugas-Praktikum-python-II/blob/main/14.PNG) 
 5.
 ![image](https://github.com/IsmedQalyubi/2.Tugas-Praktikum-python-II/blob/main/15a.PNG) 
-![image](https://github.com/IsmedQalyubi/2.Tugas-Praktikum-python-II/blob/main/15b.PNG) 
-![image](
+![image](https://github.com/IsmedQalyubi/2.Tugas-Praktikum-python-II/blob/main/15b.PNG)
+Hasilnya :
+![image](https://github.com/IsmedQalyubi/2.Tugas-Praktikum-python-II/blob/main/15%20output.PNG) 
 6.
 ![image](
 ![image](
+Hasilnya :
 ![image](
