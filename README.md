@@ -4,7 +4,7 @@
 2.
 ![image](https://github.com/IsmedQalyubi/2.Tugas-Praktikum-python-II/blob/main/12.PNG) 
 3.
-![image](
+![image](https://github.com/IsmedQalyubi/2.Tugas-Praktikum-python-II/blob/main/13.PNG) 
 4.
 ![image](
 5.
