@@ -14,6 +14,6 @@ Hasilnya :
 ![image](https://github.com/IsmedQalyubi/2.Tugas-Praktikum-python-II/blob/main/15%20output.PNG) 
 6.
 ![image](https://github.com/IsmedQalyubi/2.Tugas-Praktikum-python-II/blob/main/16a.PNG) 
-![image](
+![image](https://github.com/IsmedQalyubi/2.Tugas-Praktikum-python-II/blob/main/16b.PNG) 
 Hasilnya :
 ![image](
